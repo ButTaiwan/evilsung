@@ -214,13 +214,13 @@ Unicode 未收錄的字符，則無法直接輸入。
 
 ## 參考資料與資源
 
-- [Resource目錄](/ButTaiwan/evilsung/resource/) 收集了各方案的 PDF 文件。
-- [Data目錄](/ButTaiwan/evilsung/data/) 有實際製作字型時整理之易於程式處理的文字檔資料。
+- [Resource目錄](resource/) 收集了各方案的 PDF 文件。
+- [Data目錄](data/) 有實際製作字型時整理之易於程式處理的文字檔資料。
 
 ## 展示
 
 本字型的使用範例，請見 [本頁面](https://buttaiwan.github.io/evilsung/)。
-（本頁面會載入整個字型檔）
+（本頁面會載入整個 5MB 的字型檔）
 
 ## 授權資訊
 
@@ -234,4 +234,4 @@ Unicode 未收錄的字符，則無法直接輸入。
 * 「邪宋」的命名是我說到正在做個整理多國簡體字的字型後，友人給的評語是「似乎是個邪惡的字型」，就這樣叫邪宋了。
 * 此頁面只有繁體中文，如果有人有興趣翻譯其他語言版本，請跟我聯絡XD
 * 若您手上有更多補充資料，歡迎至 issues 提供。但本字型應該沒有經常更新的計畫。
-* 雖然應該沒有，若有人有興趣打賞，請參閱 [芫荽](https://github.com/ButTaiwan/iansui)頁面的斗內資訊。
+* 雖然應該沒有，若有人有興趣打賞，請參閱 [芫荽](https://github.com/ButTaiwan/iansui) 頁面的斗內資訊。
