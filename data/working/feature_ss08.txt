@@ -1,0 +1,7 @@
+featureNames {
+  name "1965 Printing Standard Forms of Characters";
+  name 3 1 0x404 "1965 \5370\5237\901a\7528\6f22\5b57\5b57\5f62\8868";
+  name 1 "1965 Printing Standard Forms of Characters";
+};
+lookup ss08main;
+lookup cn_style;

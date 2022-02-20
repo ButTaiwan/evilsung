@@ -1,0 +1,7 @@
+featureNames {
+  name "1974 Singapore Simplified Characters";
+  name 3 1 0x404 "1974 \7c21\4f53\5b57\7e3d\8868\0028\65b0\52a0\5761\0029";
+  name 1 "1974 Singapore Simplified Characters";
+};
+lookup ss10main;
+lookup cn_style;

@@ -1,0 +1,7 @@
+featureNames {
+  name "1977 Second Scheme Draft (Table 2)";
+  name 3 1 0x404 "1977 \7b2c\4e8c\6b21\6f22\5b57\7c21\5316\65b9\6848\8349\6848\7b2c\4e8c\8868";
+  name 1 "1977 Second Scheme Draft (Table 2)";
+};
+lookup ss12main;
+lookup cn_style;

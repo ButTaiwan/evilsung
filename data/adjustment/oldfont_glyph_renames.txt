@@ -1,0 +1,22 @@
+# Ext B
+𠔾	舟.er2
+
+# Ext C
+𫊥	蠹.er2
+𫃵	缕.kmt
+
+# Ext F
+𬽥	假.er2
+
+# customs
+、.cn	、.gbk
+。.cn	。.gbk
+！.cn	！.gbk
+，.cn	，.gbk
+？.cn	？.gbk
+：.cn	：.gbk
+；.cn	；.gbk
+
+临.ca798	临.old
+雜.sgp	卒.sgp
+察.er1	忟.er1	

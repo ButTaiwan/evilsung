@@ -1,0 +1,7 @@
+featureNames {
+  name "2013 General Standard Chinese Characters";
+  name 3 1 0x404 "2013 \901a\7528\898f\7bc4\6f22\5b57\8868";
+  name 1 "2013 General Standard Chinese Characters";
+};
+lookup ss15main;
+lookup cn_style;

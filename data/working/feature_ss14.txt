@@ -1,0 +1,7 @@
+featureNames {
+  name "1988 Commonly Used Characters";
+  name 3 1 0x404 "1988 \73fe\4ee3\6f22\8a9e\901a\7528\5b57\8868";
+  name 1 "1988 Commonly Used Characters";
+};
+lookup ss14main;
+lookup cn_style;

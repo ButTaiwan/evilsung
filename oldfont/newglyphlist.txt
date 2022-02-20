@@ -1,0 +1,776 @@
+uni3001.gbk	、(CID1397)	、-cn, 、-old, 、-sg2, 、-er1, 、-er2
+uni3002.gbk	。(CID1398)	。-cn, 。-old, 。-sg2, 。-er1, 。-er2
+uni34B7.kmt	㒷(CID2637)	興-kmt
+uni4847.er2	䡇(CID8035)	轅-er2, 辕-er2
+uni4986.er1	钦(CID43436)	钁-er1, 钁-er2, 䦆-er1, 䦆-er2, 鐝-er1, 鐝-er2, 镢-er1, 镢-er2
+uni499A.er2	活(CID23899)	闊-er2, 阔-er2
+uni4E34.old	临(CID9572)	臨-old
+uni4E3D.sgp	丽(CID9584)	麗-sg1, 麗-sg2
+uni4E50.kmt	乐(CID9613)	樂-kmt
+uni4E80.kmt	亀(CID9677)	龜-kmt
+uni4E8B.er2	令(CID9829)	事-er2
+uni4EA5.er2	东(CID9541)	亥-er2
+uni4F1E.kmt	伞(CID9917)	傘-kmt
+uni4F53.kmt	体(CID9989)	體-kmt
+uni4FB5.er2	㑇(CID2518)	侵-er2
+uni4FE6.kmt	俦(CID10221)	儔-kmt
+uni4FEE.gbk	修(CID10230)	修-cn, 修-old, 修-sg2
+uni4FF1.er1	俱(CID10234)	俱-er1, 俱-er2
+uni503C.er1	值(CID10365)	值-er1, 值-er2
+uni5047.er2	仆(CID9786)	假-er2
+uni5080.er2	傀(CID10491)	傀-er2
+uni508D.er2	傍(CID10515)	傍-er2
+uni50A3.er2	傣(CID10563)	傣-er2
+uni50A9.er2	傩(CID10569)	儺-er2, 傩-er2
+uni50AC.er2	催(CID10575)	催-er2
+uni50B7.kmt	伤(CID9924)	傷-kmt
+uni50CF.er2	响(CID12273)	像-er2
+uni50CF.gbk	像(CID10641)	像-cn, 像-er1
+uni5112.er1	仈(CID9789)	儒-er1, 儒-er2
+uni5176.er2	其(CID10940)	其-er2
+uni5177.er1	具(CID10942)	具-er1, 具-er2
+uni51C6.er2	准(CID11054)	准-er2
+uni523B.er2	刻(CID11236)	刻-er2
+uni5254.er1	剔(CID11271)	剔-er1, 剔-er2
+uni5269.er2	䲼(CID9241)	剩-er2
+uni52D8.gbk	勘(CID11487)	勘-cn, 勘-old, 勘-er1, 勘-er2
+uni52D8.kmt	切(CID11160)	勘-kmt
+uni52E4.er1	勤(CID11509)	勤-er1, 勤-er2
+uni533A.kmt	区(CID11668)	區-kmt
+uni5352.sgp	卒(CID11708)	雜-kmt, 雜-sg1, 雜-sg2
+uni5356.sgp	卖(CID11712)	賣-sg1, 賣-sg2
+uni5357.er2	南(CID11714)	南-er2
+uni535A.er2	抟(CID19161)	博-er2
+uni535D.kmt	卝(CID11725)	礦-kmt
+uni5369.er1	卩(CID11741)	部-er1, 部-er2
+uni539F.er1	原(CID11823)	原-er1, 原-er2
+uni53A5.er2	疦(CID27876)	厥-er2
+uni53A6.er2	疜(CID27858)	廈-er2, 厦-er2
+uni53A9.er2	尻(CID15992)	廄-er2, 厩-er2
+uni53AE.er2	厮(CID11845)	廝-er2, 厮-er2
+uni53D1.gbk	发(CID11903)	髮-cn, 髮-old, 髮-sg2, 髮-er1, 髮-er2
+uni53D6.er2	取(CID11910)	取-er2
+uni53DF.er2	甹(CID27703)	叟-er2, 嗖-er2, 搜-er2, 颼-er2, 飕-er2
+uni5455.kmt	呕(CID12097)	嘔-kmt
+uni54B3.er2	咳(CID12239)	咳-er2
+uni552E.er2	售(CID12415)	售-er2
+uni552F.er2	唯(CID12417)	唯-er2
+uni5546.er2	商(CID12460)	商-er2
+uni5583.er2	喃(CID12555)	喃-er2
+uni559C.er2	喜(CID12604)	喜-er2
+uni55D3.er1	嗓(CID12707)	嗓-er1, 嗓-er2
+uni5600.er2	嘀(CID12789)	嘀-er2
+uni5631.er1	嘱(CID12875)	囑-er1, 囑-er2, 嘱-er1, 嘱-er2
+uni5631.kmt	嘱(CID12875)	囑-kmt
+uni5632.er2	嘲(CID12877)	嘲-er2
+uni5634.gbk	嘴(CID12880)	嘴-cn, 嘴-old
+uni5636.er2	嘶(CID12883)	嘶-er2
+uni563B.er2	嘻(CID12890)	嘻-er2
+uni563F.er2	嘿(CID12895)	嘿-er2
+uni564D.er2	噍(CID12924)	嚼-er2, 噍-er2
+uni56CA.er1	中(CID9562)	囊-er1, 囊-er2, 囔-er1, 囔-er2
+uni56FE.kmt	图(CID13245)	圖-kmt
+uni573A.kmt	场(CID13337)	場-kmt
+uni57FA.er2	基(CID13640)	基-er2
+uni5806.er2	堆(CID13659)	堆-er2
+uni582A.gbk	堪(CID13719)	堪-cn, 堪-old, 堪-er1, 堪-er2
+uni582A.kmt	圫(CID13318)	堪-kmt
+uni5869.kmt	塩(CID13831)	鹽-kmt
+uni586B.er1	填(CID13835)	填-er1, 填-er2
+uni58A8.er2	墨(CID13946)	墨-er2
+uni58C5.er2	壅(CID13997)	壅-er2
+uni58F2.kmt	売(CID14079)	賣-kmt
+uni58F9.er2	壆(CID13998)	壹-er2
+uni590F.er2	夏(CID14126)	夏-er2
+uni5957.er1	套(CID14239)	套-er1, 套-er2
+uni5965.er2	奥(CID14267)	奧-er2, 奥-er2
+uni5A36.er2	娶(CID14799)	娶-er2
+uni5A9A.er1	媚(CID15059)	媚-er1, 媚-er2
+uni5AC1.er2	嫁(CID15165)	嫁-er2
+uni5AC2.er2	嫂(CID15168)	嫂-er2
+uni5AD6.er2	嫖(CID15215)	嫖-er2
+uni5AE1.er2	嫡(CID15248)	嫡-er2
+uni5B09.er2	嬉(CID15354)	嬉-er2
+uni5B30.er1	妥(CID14426)	嬰-er1, 嬰-er2, 鸚-er2, 婴-er1, 婴-er2, 鹦-er2
+uni5B5F.er2	孟(CID15559)	孟-er2
+uni5B69.er2	孩(CID15576)	孩-er2
+uni5B7A.er2	杁(CID21236)	孺-er2
+uni5B7D.er2	乜(CID9629)	孽-er2, 櫱-er2, 蘖-er2
+uni5B9E.kmt	实(CID15684)	實-kmt
+uni5BD0.er2	寐(CID15786)	寐-er2
+uni5BE8.er1	茬(CID34774)	寨-er1, 寨-er2
+uni5BFF.kmt	寿(CID15891)	壽-kmt
+uni5C04.er2	射(CID15899)	射-er2
+uni5C0A.er1	专(CID9530)	尊-er1, 尊-er2, 遵-er2
+uni5C55.er1	尸(CID15989)	展-er1, 展-er2, 輾-er1, 輾-er2, 辗-er1, 辗-er2
+uni5C5E.er1	属(CID16050)	屬-er1, 屬-er2, 属-er1, 属-er2
+uni5C5E.kmt	属(CID16050)	屬-kmt
+uni5C82.kmt	岂(CID16122)	豈-kmt
+uni5D14.er2	崔(CID16455)	崔-er2
+uni5DEE.gbk	差(CID16957)	差-cn, 差-old, 差-er1, 差-er2
+uni5E05.kmt	帅(CID16986)	帥-kmt
+uni5E08.kmt	师(CID16990)	師-kmt
+uni5E10.kmt	帐(CID17002)	帳-kmt
+uni5E37.er2	帷(CID17067)	帷-er2
+uni5E3C.kmt	帼(CID17073)	幗-kmt
+uni5E7D.er2	凤(CID11108)	幽-er2
+uni5EB6.er2	庶(CID17303)	庶-er2
+uni5EB8.er2	庸(CID17308)	庸-er2
+uni5EC3.sgp	廃(CID17329)	廢-sg1, 廢-sg2
+uni5EE8.gbk	廨(CID17413)	廨-cn, 廨-old, 廨-er1, 廨-er2
+uni5F0A.er1	毕(CID23330)	弊-er1, 弊-er2
+uni5F1F.er2	弟(CID17522)	弟-er2, 第-er2
+uni5F20.kmt	张(CID17523)	張-kmt
+uni5F2D.er2	弭(CID17551)	弭-er2
+uni5F31.er2	㢴(CID3765)	弱-er2
+uni5F39.er1	弹(CID17575)	彈-er1, 彈-er2, 弹-er1, 弹-er2
+uni5F52.kmt	归(CID17627)	歸-kmt
+uni5F8B.er2	仂(CID9782)	律-er2
+uni5FB7.er2	芯(CID34522)	德-er2
+uni5FDF.er1	㝊(CID3342)	嚓-er1, 嚓-er2, 察-er1, 察-er2
+uni6064.er2	恤(CID18102)	恤-er2
+uni606D.er2	恭(CID18116)	恭-er2
+uni60C5.er1	情(CID18272)	情-er1, 情-er2
+uni60D5.er1	汤(CID23568)	惕-er1, 惕-er2
+uni60DF.er2	惟(CID18320)	惟-er2
+uni60E7.er1	惧(CID18335)	懼-er1, 懼-er2
+uni610F.er1	忌(CID17843)	意-er1, 意-er2
+uni611A.er2	穻(CID30146)	愚-er2
+uni6127.er2	愧(CID18456)	愧-er2
+uni614E.er1	慎(CID18538)	慎-er1, 慎-er2
+uni6155.er2	慕(CID18549)	慕-er2
+uni6168.er2	既(CID20662)	慨-er2
+uni6194.er2	憔(CID18687)	憔-er2
+uni61A8.er2	憨(CID18721)	憨-er2
+uni61A8.gbk	憨(CID18721)	憨-cn, 憨-old, 憨-er1
+uni61BE.er1	惚(CID18311)	憾-er1, 憾-er2
+uni61C8.er2	懈(CID18789)	懈-er2
+uni61C8.gbk	懈(CID18789)	懈-cn, 懈-old, 懈-er1
+uni61E6.er2	懦(CID18846)	懦-er2
+uni61F6.er1	拦(CID19264)	懶-er1, 懶-er2, 懒-er1, 懒-er2
+uni621F.er2	战(CID18937)	戟-er2
+uni622A.er2	截(CID18967)	截-er2
+uni6233.er2	戳(CID18983)	戳-er2
+uni62A5.kmt	报(CID19167)	報-kmt
+uni633A.er2	挺(CID19398)	挺-er2
+uni6390.er2	陥(CID43994)	掐-er2
+uni63A8.er2	推(CID19584)	推-er2
+uni63D6.er2	揖(CID19661)	揖-er2
+uni640F.er2	抟(CID19161)	搏-er2
+uni6413.gbk	搓(CID19770)	搓-cn, 搓-old, 搓-er1, 搓-er2
+uni641E.er2	拎(CID19228)	搞-er2
+uni6421.er1	搡(CID19798)	搡-er1, 搡-er2
+uni642C.er2	搬(CID19826)	搬-er2
+uni643A.er2	协(CID11703)	攜-er2, 携-er2
+uni6444.er2	摄(CID19874)	攝-er2, 摄-er2
+uni644A.er2	摊(CID19880)	攤-er2, 摊-er2
+uni6458.er2	摘(CID19907)	摘-er2
+uni6467.er2	摧(CID19939)	摧-er2
+uni6492.er2	拦(CID19264)	撒-er2
+uni6495.er2	撕(CID20026)	撕-er2
+uni6499.er1	抟(CID19161)	撙-er1, 撙-er2
+uni64AB.sgp	撫(CID20068)	撫-sg1, 撫-sg2
+uni64AE.er2	撮(CID20075)	撮-er2
+uni64BC.er1	捻(CID19499)	撼-er1, 撼-er2
+uni64C2.er2	擂(CID20111)	擂-er2
+uni64E6.er1	扠(CID19065)	擦-er1, 擦-er2
+uni6500.er2	奎(CID14220)	攀-er2
+uni6518.er2	扗(CID19051)	攘-er2
+uni652B.er2	攫(CID20338)	攫-er2
+uni652E.er1	攮(CID20346)	攮-er1, 攮-er2
+uni6562.gbk	敢(CID20421)	敢-cn, 敢-old, 敢-er1
+uni6572.er2	邻(CID41663)	敲-er2
+uni6574.er1	奁(CID14200)	整-er1, 整-er2
+uni6578.er2	邮(CID41642)	數-er2, 数-er2
+uni659B.er2	斛(CID20520)	斛-er2
+uni659F.kmt	斟(CID20526)	斟-kmt
+uni65AF.er2	斯(CID20549)	斯-er2
+uni65D7.er2	旗(CID20635)	旂-er2, 旗-er2
+uni6652.kmt	晒(CID20837)	曬-kmt
+uni6687.er2	虾(CID36680)	暇-er2
+uni66B9.er2	暹(CID20998)	暹-er2
+uni6700.er2	最(CID21125)	最-er2
+uni671F.er2	期(CID21179)	期-er2
+uni67A2.kmt	枢(CID21376)	樞-kmt
+uni6838.er2	核(CID21606)	核-er2
+uni6851.er1	桑(CID21648)	桑-er1, 桑-er2
+uni6877.er2	桷(CID21705)	桷-er2
+uni68AF.er2	梯(CID21800)	梯-er2
+uni68CB.er2	棋(CID21845)	棋-er2
+uni690D.er1	植(CID21977)	植-er1, 植-er2
+uni690E.er2	椎(CID21979)	椎-er2
+uni6930.er2	椰(CID22026)	椰-er2
+uni695D.er2	栋(CID21533)	楝-er2
+uni6960.er2	楠(CID22114)	楠-er2
+uni696B.er2	楫(CID61580)	楫-er2
+uni6982.er2	既(CID20662)	概-er2
+uni699C.er2	榜(CID22226)	榜-er2
+uni69AB.er2	榫(CID22258)	榫-er2
+uni69AD.er2	榭(CID22262)	榭-er2
+uni69B4.er1	榴(CID22275)	榴-er1, 榴-er2
+uni69C1.er2	柃(CID21424)	槁-er2
+uni69D0.er2	槐(CID22339)	槐-er2
+uni69DB.er2	槛(CID22354)	檻-er2, 槛-er2
+uni6A35.er2	樵(CID22526)	樵-er2
+uni6A44.er2	橄(CID22554)	橄-er2
+uni6B27.kmt	欧(CID23002)	歐-kmt
+uni6B3A.er2	欺(CID23040)	欺-er2
+uni6B96.er1	殖(CID23208)	殖-er1, 殖-er2
+uni6BB4.kmt	殴(CID23255)	毆-kmt
+uni6BC0.er1	毀(CID23282)	毀-er1, 毀-er2, 毁-er1, 毁-er2
+uni6BC5.er1	㐇(CID2448)	毅-er2
+uni6BFD.er2	毽(CID23401)	毽-er2
+uni6D31.er2	洱(CID23882)	洱-er2
+uni6D8E.er2	涎(CID24018)	涎-er2
+uni6D95.er2	涕(CID24031)	嚏-er2, 涕-er2
+uni6D9B.kmt	涛(CID24044)	濤-kmt
+uni6DA8.kmt	涨(CID24057)	漲-kmt
+uni6DB1.er2	怅(CID17942)	漲-er2, 脹-er2, 涨-er2, 胀-er2
+uni6DC7.er2	淇(CID24108)	淇-er2
+uni6DEE.er2	淮(CID24183)	淮-er2
+uni6DFB.er2	添(CID61619)	添-er2
+uni6E05.er1	清(CID24227)	清-er1, 清-er2
+uni6E29.er2	温(CID24283)	溫-er2, 温-er2
+uni6E8C.sgp	溌(CID24455)	潑-sg1, 潑-sg2
+uni6E9C.er1	溜(CID24486)	溜-er1, 溜-er2, 遛-er1, 遛-er2, 鎦-er2, 餾-er1, 餾-er2, 馏-er1, 馏-er2, 熘-er1, 熘-er2, 镏-er2, 蹓-er2
+uni6EA2.er2	溢(CID24497)	溢-er2
+uni6EC7.er1	滇(CID24571)	滇-er1, 滇-er2
+uni6ED4.er2	焔(CID25698)	滔-er2
+uni6EE5.sgp	滥(CID24626)	濫-sg1, 濫-sg2
+uni6EE9.er2	滩(CID24631)	灘-er2, 滩-er2
+uni6EF4.er2	滴(CID24653)	滴-er2
+uni6F02.er2	漂(CID24682)	漂-er2
+uni6F14.er1	渲(CID24297)	演-er1, 演-er2
+uni6F4D.er2	潍(CID24821)	濰-er2, 潍-er2
+uni6F6E.er2	潮(CID24882)	潮-er2
+uni6FA1.er2	潭(CID24881)	澡-er2
+uni70B9.er2	点(CID25534)	點-er2, 点-er2
+uni70BC.kmt	炼(CID25537)	煉-kmt
+uni70C8.er2	烈(CID25555)	烈-er2
+uni70ED.er2	热(CID25617)	熱-er2, 热-er2
+uni70F9.er2	烹(CID25643)	烹-er2
+uni7109.er2	焉(CID25677)	焉-er2
+uni7118.er2	焘(CID25703)	燾-er2, 焘-er2
+uni7121.sgp	無(CID25726)	無-sg1, 無-sg2
+uni7126.er2	焦(CID25740)	焦-er2
+uni7130.er2	焔(CID25698)	焰-er2
+uni7136.er2	宊(CID15643)	然-er2
+uni714E.er2	煎(CID61131)	煎-er2
+uni715E.er2	煞(CID25847)	煞-er2
+uni7166.er2	煦(CID25868)	煦-er2
+uni7167.er2	兴(CID10938)	照-er2
+uni716E.er2	煮(CID25883)	煮-er2
+uni718A.er2	熊(CID25938)	熊-er2
+uni718F.er2	熏(CID25948)	熏-er2
+uni7199.er2	熙(CID25968)	熙-er2
+uni719F.er2	芄(CID34428)	熟-er2
+uni71AC.er2	熬(CID26015)	熬-er2
+uni71B5.er2	熵(CID26034)	熵-er2
+uni71B9.er2	熹(CID26043)	熹-er2
+uni71CE.er1	灯(CID25390)	燎-er1, 燎-er2
+uni71D5.er2	燕(CID26108)	燕-er2
+uni723D.er1	爽(CID26326)	爽-er1, 爽-er2
+uni7280.er2	件(CID9858)	犀-er2
+uni728B.er1	犋(CID26466)	犋-er1, 犋-er2
+uni7292.er2	犒(CID26477)	犒-er2
+uni72EE.kmt	狮(CID26629)	獅-kmt
+uni731B.er2	猛(CID26701)	猛-er2
+uni731C.er1	猜(CID61659)	猜-er1, 猜-er2
+uni732E.er2	献(CID26732)	獻-er2, 献-er2
+uni7360.er2	䄦(CID6084)	獠-er2
+uni736C.gbk	獬(CID26848)	獬-cn, 獬-old, 獬-er1, 獬-er2
+uni737E.er2	獾(CID26886)	獾-er2
+uni7387.er2	卆(CID11691)	率-er2
+uni742A.er2	琪(CID27150)	琪-er2
+uni7470.er2	瑰(CID27284)	瑰-er2
+uni74E2.er2	瓢(CID27515)	瓢-er2
+uni74E3.er2	瓣(CID27518)	瓣-er2
+uni74E4.er2	㼉(CID5509)	瓤-er2
+uni751A.kmt	甚(CID27659)	甚-kmt
+uni7544.kmt	畄(CID27720)	留-kmt
+uni7591.er2	拟(CID19256)	疑-er2
+uni75E2.er2	疠(CID27864)	痢-er2, 鬁-er2
+uni761F.gbk	瘟(CID28132)	瘟-cn, 瘟-old, 瘟-er1
+uni7622.er2	瘢(CID28141)	瘢-er2
+uni7624.er1	瘤(CID28147)	瘤-er1, 瘤-er2
+uni762B.er2	瘫(CID28163)	癱-er2, 瘫-er2
+uni767A.sgp	発(CID28330)	發-sg1, 發-sg2
+uni76BF.er2	皿(CID28438)	皿-er2
+uni76C2.er2	盂(CID28442)	盂-er2
+uni76C5.er2	盅(CID28446)	盅-er2
+uni76C6.er2	盆(CID28448)	盆-er2
+uni76C8.er2	盈(CID28453)	盈-er2, 贏-er2, 赢-er2
+uni76CA.er2	益(CID28457)	益-er2
+uni76CE.er2	盎(CID28463)	盎-er2
+uni76CF.er2	盏(CID28465)	盞-er2, 盏-er2
+uni76D0.er2	盐(CID28466)	鹽-er2, 盐-er2
+uni76D1.er2	监(CID28467)	監-er2, 监-er2
+uni76D4.er2	盔(CID28471)	盔-er2
+uni76D6.er2	盖(CID28474)	蓋-er2, 盖-er2
+uni76D7.er2	盗(CID28476)	盜-er2, 盗-er2
+uni76D8.er2	盘(CID28477)	盤-er2, 盘-er2
+uni76DB.er2	盛(CID28482)	盛-er2
+uni76DF.er2	盟(CID28490)	盟-er2
+uni76F4.er1	直(CID28531)	直-er1, 直-er2
+uni770C.kmt	県(CID28572)	縣-kmt
+uni771F.er1	真(CID28598)	真-er1, 真-er2
+uni775B.er1	睛(CID28693)	睛-er1, 睛-er2
+uni7762.er2	睢(CID28707)	睢-er2
+uni778C.er2	瞌(CID28776)	瞌-er2
+uni778E.er1	虾(CID36680)	瞎-er1, 瞎-er2
+uni779F.er2	瞟(CID28812)	瞟-er2
+uni77A9.er1	瞩(CID28827)	矚-er1, 矚-er2, 瞩-er1, 瞩-er2
+uni77B0.er2	瞰(CID28840)	瞰-er2
+uni77B0.gbk	瞰(CID28840)	瞰-cn, 瞰-old, 瞰-er1
+uni77BF.er2	瞿(CID28868)	瞿-er2
+uni77D7.er1	矗(CID28919)	矗-er1, 矗-er2
+uni77ED.er1	知(CID28946)	短-er1, 短-er2
+uni786E.er2	确(CID29147)	确-er2, 確-er2
+uni7893.er2	碓(CID29214)	碓-er2
+uni78BE.er1	碾(CID29285)	碾-er1, 碾-er2
+uni78C5.er2	磅(CID29300)	磅-er2
+uni78CA.er1	磊(CID29310)	磊-er1, 磊-er2
+uni78D0.er2	磐(CID29324)	磐-er2
+uni78D5.er2	磕(CID29335)	磕-er2
+uni78E8.er2	拓(CID19237)	磨-er2
+uni7901.er2	礁(CID29411)	礁-er2
+uni7968.er2	芞(CID34480)	票-er2, 要-er2
+uni7977.kmt	祷(CID29646)	禱-kmt
+uni797A.er2	祺(CID29651)	祺-er2
+uni79A7.er2	禧(CID29746)	禧-er2
+uni79BB.kmt	离(CID29792)	離-kmt
+uni7A1A.er2	稚(CID29955)	稚-er2
+uni7A3B.er1	稻(CID30015)	稻-er1, 稻-er2
+uni7A3C.er2	稼(CID30017)	稼-er2
+uni7A3F.er2	稿(CID30024)	稿-er2
+uni7AA9	窩(CID30262)	窩-tw
+uni7B49.er2	䒭(CID7053)	等-er2
+uni7B5B.kmt	筛(CID30643)	篩-kmt
+uni7B75.er2	筵(CID30695)	筵-er2
+uni7B79.kmt	筹(CID30705)	籌-kmt
+uni7B95.er2	箕(CID30763)	箕-er2
+uni7BD9.er2	篙(CID30896)	篙-er2
+uni7BE1.er2	夽(CID14196)	篡-er2
+uni7BEE.sgp	篮(CID30948)	籃-sg1, 籃-sg2
+uni7C3F.er2	簿(CID31125)	簿-er2
+uni7CA4.er2	粤(CID31343)	粵-er2, 粤-er2
+uni7CBE.er1	精(CID31394)	精-er1, 精-er2
+uni7CD5.er2	糕(CID31439)	糕-er2
+uni7CD6.er1	糖(CID31442)	糖-er1, 糖-er2
+uni7CEF.er2	糯(CID31495)	糯-er2
+uni7D9A.kmt	続(CID31870)	續-kmt
+uni7E41.er2	帆(CID16987)	繁-er2
+uni7EBF.sgp	线(CID32507)	線-sg1, 綫-sg1
+uni7EC3.kmt	练(CID32511)	練-kmt
+uni7EC3.sgp	练(CID32511)	練-sg1, 練-sg2
+uni7ECF.sgp	经(CID32523)	經-sg1, 經-sg2
+uni7EED.sgp	续(CID32553)	續-sg1, 續-sg2
+uni7EF3.sgp	縄(CID32110)	繩-kmt, 繩-sg1, 繩-sg2
+uni7EF4.er2	维(CID32560)	維-er2, 维-er2
+uni7F05.er1	缅(CID32577)	緬-er1, 緬-er2, 缅-er1, 缅-er2
+uni7F06.er1	烂(CID25544)	纜-er1, 纜-er2, 缆-er1, 缆-er2
+uni7F06.sgp	缆(CID32578)	纜-sg1, 纜-sg2
+uni7F09.er2	缉(CID32581)	緝-er2, 缉-er2
+uni7F15.kmt	缕(CID32593)	縷-kmt
+uni7F18.er1	纭(CID32489)	緣-er1, 緣-er2, 缘-er1, 缘-er2
+uni7F1A.er2	䌸(CID6657)	縛-er2, 缚-er2
+uni7F22.er2	缢(CID32606)	縊-er2, 缢-er2
+uni7F28.er1	绥(CID32545)	纓-er1, 纓-er2, 缨-er1, 缨-er2
+uni7F2D.er2	䄦(CID6084)	繚-er2, 缭-er2
+uni7F50.er1	缺(CID32636)	罐-er1, 罐-er2
+uni7F6E.er1	置(CID32734)	置-er1, 置-er2
+uni7F74.er2	罴(CID32743)	羆-er2, 罴-er2
+uni7F94.er2	羔(CID32803)	羔-er2
+uni7FB6.er2	劷(CID11437)	羶-er2, 膻-er2
+uni7FB9.er2	羹(CID32879)	羹-er2
+uni7FDF.er2	翟(CID32966)	翟-er2
+uni7FF0.er2	翰(CID61161)	翰-er2
+uni7FFB.er2	汎(CID23535)	翻-er2
+uni7FFC.er1	羽(CID32889)	翼-er1, 翼-er2
+uni8029.er2	耩(CID33130)	耩-er2
+uni802A.er2	耪(CID33133)	耪-er2
+uni8033.er2	耳(CID33153)	耳-er2
+uni8036.er2	耶(CID61815)	耶-er2
+uni8038.er2	耸(CID33164)	聳-er2, 耸-er2
+uni803B.er2	耻(CID33171)	恥-er2, 耻-er2
+uni803D.er2	耽(CID33175)	耽-er2
+uni803F.er2	耿(CID33180)	耿-er2
+uni8042.er2	聂(CID33185)	聶-er2, 聂-er2
+uni8046.er2	聆(CID33194)	聆-er2
+uni804A.er2	耵(CID33158)	聊-er2
+uni804B.er2	聋(CID33206)	聾-er2, 聋-er2
+uni804C.er2	职(CID33207)	職-er2, 职-er2
+uni8054.er2	联(CID33221)	聯-er2, 联-er2
+uni8058.er2	聘(CID33231)	聘-er2
+uni805A.er2	众(CID9905)	聚-er2
+uni806A.er2	聪(CID33269)	聰-er2, 聪-er2
+uni8086.er2	驷(CID45997)	肆-er2
+uni80A0.kmt	肠(CID33381)	腸-kmt
+uni8170.er2	腰(CID33800)	腰-er2
+uni8171.er2	腱(CID33803)	腱-er2
+uni817E.erg	眷(CID28635)	騰-er1, 騰-er2, 腾-er1, 腾-er2
+uni8180.er2	膀(CID33834)	膀-er2
+uni818A.er2	䏝(CID6827)	膊-er2
+uni8198.er2	膘(CID33890)	膘-er2
+uni819D.er2	矽(CID28982)	膝-er2
+uni81C0.er2	庉(CID17211)	臀-er2
+uni81FF.er2	臿(CID34128)	插-er2, 鍤-er2, 锸-er2, 臿-er2
+uni8200.er2	刍(CID11167)	舀-er2
+uni8206.er2	玙(CID26927)	輿-er2, 舆-er2
+uni8214.er2	舔(CID34166)	舔-er2
+uni821F.er2	舟(CID34191)	舟-er2
+uni8222.er2	舢(CID34199)	舢-er2
+uni822A.er2	航(CID34216)	航-er2
+uni822B.er2	舫(CID34219)	舫-er2
+uni822C.er2	般(CID34222)	般-er2
+uni8230.er2	舰(CID34230)	艦-er2, 舰-er2
+uni8235.er2	舵(CID34242)	舵-er2
+uni8236.er2	舶(CID34245)	舶-er2
+uni8237.er2	舷(CID34248)	舷-er2
+uni8238.er2	舸(CID34251)	舸-er2
+uni8239.er2	船(CID34254)	船-er2
+uni823A.er2	舺(CID34257)	舺-er2
+uni8244.er2	艄(CID34280)	艄-er2
+uni824B.er2	艋(CID34297)	艋-er2
+uni8258.er2	艘(CID34331)	艘-er2
+uni82A6.kmt	芦(CID34500)	蘆-kmt
+uni82CF.kmt	苏(CID34582)	蘇-kmt
+uni8338.er2	茸(CID34801)	茸-er2
+uni8345.kmt	荅(CID34831)	答-kmt
+uni8345.sg2	荅(CID34831)	答-sg2
+uni8350.kmt	荐(CID34857)	荐-kmt, 薦-kmt
+uni83B2.sg1	莲(CID35049)	蓮-sg1
+uni83B2.sg2	莲(CID35049)	蓮-sg2
+uni83C1.er1	菁(CID35070)	菁-er1, 菁-er2
+uni8435	萵(CID35324)	萵-tw
+uni846F.kmt	葯(CID35455)	藥-kmt
+uni8499.er1	苎(CID34581)	懞-er1, 懞-er2, 朦-er1, 朦-er2, 檬-er2, 濛-er1, 濛-er2, 矇-er1, 矇-er2, 蒙-er1, 蒙-er2, 曚-er1, 曚-er2
+uni84BF.er2	苓(CID34590)	蒿-er2
+uni84DD.sgp	蓝(CID35707)	藍-sg1, 藍-sg2
+uni84F2.er2	蓲(CID35749)	藕-er2
+uni8511.er2	荧(CID34891)	篾-er2, 蔑-er2
+uni8517.er2	蔗(CID35838)	蔗-er2
+uni853A.er2	蔺(CID35922)	藺-er2, 蔺-er2
+uni8549.er2	蕉(CID35953)	蕉-er2
+uni856A.sgp	蕪(CID36029)	蕪-sg1, 蕪-sg2
+uni8574.er2	蕴(CID36048)	蘊-er2, 蕴-er2
+uni8584.er2	薄(CID36090)	薄-er2, 礡-er2
+uni859B.er2	薛(CID36150)	薛-er2
+uni85B0.er2	薰(CID36199)	薰-er2
+uni8611.er2	么(CID9602)	蘑-er2
+uni8650.er1	虐(CID36586)	虐-er1, 虐-er2
+uni8712.er2	蜒(CID36908)	蜒-er2
+uni8722.er2	蜢(CID36931)	蜢-er2
+uni8747.kmt	蝇(CID37000)	蠅-kmt, 蠅-sg1, 蠅-sg2
+uni877B.er2	蝻(CID37098)	蝻-er2
+uni8783.er2	螃(CID37111)	螃-er2
+uni879F.er2	銘(CID42515)	螟-er2
+uni87B3.er1	螳(CID37210)	螳-er1, 螳-er2
+uni87F9.er2	蟹(CID37335)	蟹-er2
+uni87F9.gbk	蟹(CID37335)	蟹-cn, 蟹-old, 蟹-er1
+uni8813.er1	蠓(CID37386)	蠓-er1, 蠓-er2
+uni8815.er2	釞(CID42235)	蠕-er2
+uni8839.er2	虹(CID36672)	蠹-er2
+uni8840.er2	血(CID37481)	血-er2
+uni8845.er2	衅(CID37491)	釁-er2, 衅-er2
+uni886E.er2	交(CID9734)	滾-er2, 袞-er2, 衮-er2, 滚-er2, 磙-er2
+uni88C6.er2	裆(CID37745)	襠-er2, 裆-er2
+uni8902.er2	褂(CID37878)	褂-er2
+uni8910.er2	褐(CID37910)	褐-er2
+uni891B.er2	褛(CID37939)	褸-er2, 褛-er2
+uni8925.er2	杁(CID21236)	褥-er2
+uni892A.er2	褪(CID37977)	褪-er2
+uni8934.er2	褴(CID38002)	襤-er2, 褴-er2
+uni8936.er2	褶(CID38007)	褶-er2
+uni89C8.sgp	览(CID38297)	覽-kmt, 覽-sg1, 覽-sg2
+uni89D2.er2	角(CID38308)	角-er2
+uni89D2.gbk	角(CID38308)	角-cn, 角-old, 角-er1
+uni89D4.gbk	觔(CID38313)	觔-cn, 觔-old, 觔-er1, 觔-er2
+uni89E3.gbk	解(CID38348)	解-cn, 解-old, 解-er1
+uni89E6.er2	触(CID38354)	触-er2, 觸-er2
+uni89E6.sgp	触(CID38354)	觸-sg1, 觸-sg2
+uni89E7.sgp	觧(CID38356)	解-sg1, 解-sg2
+uni8A5A.er2	但(CID9968)	誕-er2, 诞-er2
+uni8AAD.kmt	読(CID38790)	讀-kmt
+uni8AEB.sgp	炼(CID25537)	諫-sg1, 諫-sg2
+uni8B33.kmt	謳(CID39110)	謳-kmt
+uni8B66.er2	阱(CID43919)	儆-er2, 警-er2
+uni8B95.er1	㳕(CID4914)	讕-er1, 讕-er2, 谰-er1, 谰-er2
+uni8BAE.sgp	议(CID39382)	議-kmt, 議-sg1, 議-sg2
+uni8BD1.sgp	译(CID39417)	譯-sg1, 譯-sg2
+uni8BE5.er2	该(CID39437)	該-er2, 该-er2
+uni8BF7.er1	请(CID39455)	請-er1, 請-er2, 请-er1, 请-er2
+uni8BFB.sgp	读(CID39459)	讀-sg1, 讀-sg2
+uni8C01.er2	谁(CID39465)	誰-er2, 谁-er2
+uni8C04.er2	焔(CID25698)	諂-er2, 谄-er2
+uni8C0F.er2	炼(CID25537)	諫-er2
+uni8C22.er2	谢(CID39498)	謝-er2, 谢-er2
+uni8C24.er2	谤(CID39500)	謗-er2, 谤-er2
+uni8C25.er2	谥(CID39501)	謚-er2, 諡-er2, 谥-er2
+uni8C26.er1	讦(CID39374)	謙-er1, 謙-er2
+uni8C34.er2	谴(CID39516)	譴-er2, 谴-er2
+uni8C61.er2	免(CID10873)	象-er2
+uni8C61.gbk	象(CID39598)	像-old, 象-cn, 象-old, 象-er1
+uni8CCE.sgp	賎(CID39778)	賤-sg1, 賤-sg2
+uni8CDB.er1	賛(CID39799)	贊-er1, 贊-er2
+uni8CE2.kmt	賢(CID39811)	賢-kmt
+uni8D16.kmt	贖(CID39901)	贖-kmt
+uni8D26.kmt	账(CID39923)	賬-kmt
+uni8D38.er2	员(CID12100)	貿-er2, 贸-er2
+uni8D45.er2	赅(CID39954)	賅-er2, 赅-er2
+uni8D4E.sgp	赎(CID39963)	贖-sg1, 贖-sg2
+uni8D50.er1	赐(CID39965)	賜-er1, 賜-er2, 赐-er1, 赐-er2
+uni8D5A.er2	转(CID40923)	賺-er2, 赚-er2
+uni8D75.kmt	赵(CID40011)	趙-kmt
+uni8DA3.er2	趣(CID40104)	趣-er2
+uni8E22.er1	踢(CID40311)	踢-er1, 踢-er2
+uni8E35.er2	肿(CID33443)	踵-er2
+uni8E48.er1	蹈(CID40379)	蹈-er1, 蹈-er2
+uni8E49.gbk	蹉(CID40381)	蹉-cn, 蹉-old, 蹉-er1, 蹉-er2
+uni8E51.er2	蹑(CID40400)	躡-er2, 蹑-er2
+uni8E8F.er2	躏(CID40515)	躪-er2, 躏-er2
+uni8EAB.er2	力(CID11399)	身-er2
+uni8EAC.er2	躬(CID40582)	躬-er2
+uni8EAF.er2	躯(CID40589)	軀-er2, 躯-er2
+uni8EB2.er2	躲(CID40595)	躲-er2
+uni8EBA.er2	躺(CID40612)	躺-er2
+uni8F91.er2	辑(CID40960)	輯-er2, 辑-er2
+uni8F93.er1	输(CID40962)	輸-er1, 輸-er2, 输-er1, 输-er2
+uni8F96.er2	虾(CID36680)	轄-er2, 辖-er2
+uni8F99.er1	砌(CID29003)	轍-er1, 轍-er2
+uni8FB1.er2	汆(CID23522)	辱-er2
+uni9012.er2	递(CID41256)	遞-er2, 递-er2
+uni9022.er2	违(CID41117)	逢-er2
+uni904E	過(CID41412)	過-tw
+uni9057.er2	吃(CID11971)	遺-er2, 遗-er2
+uni9063.er2	茨(CID34763)	遣-er2
+uni9065.er2	迗(CID41107)	遙-er2, 遥-er2
+uni906D.er2	逴(CID41346)	遭-er2
+uni906E.er2	遮(CID41499)	遮-er2
+uni9072.kmt	遅(CID41389)	遲-kmt
+uni907F.er2	避(CID41549)	避-er2
+uni9082	邂(CID41558)	邂-tw
+uni9082.gbk	邂(CID41558)	邂-cn, 邂-old, 邂-er1, 邂-er2
+uni9143.er2	酃(CID41915)	酃-er2
+uni917F.er1	酿(CID42036)	釀-er1, 釀-er2, 酿-er1, 酿-er2
+uni91CF.er1	量(CID42218)	量-er1, 量-er2
+uni92AD.sgp	銭(CID42549)	錢-sg1, 錢-sg2
+uni92E7.er2	观(CID38291)	鍵-er2, 键-er2
+uni9511.er2	锑(CID43543)	銻-er2, 锑-er2
+uni9521.er1	锡(CID43559)	錫-er1, 錫-er2, 锡-er1, 锡-er2
+uni9525.er2	锥(CID43563)	錐-er2, 锥-er2
+uni9530.er2	锰(CID43574)	錳-er2, 锰-er2
+uni9547.er1	镇(CID43597)	鎮-er1, 鎮-er2, 镇-er1, 镇-er2
+uni954A.er2	镊(CID43600)	鑷-er2, 镊-er2
+uni9550.er2	镐(CID43606)	鎬-er2, 镐-er2
+uni9551.er2	镑(CID43607)	鎊-er2, 镑-er2
+uni9556.er2	镖(CID43612)	鏢-er2, 镖-er2
+uni955C.er1	镜(CID43618)	鏡-er1, 鏡-er2
+uni955D.er2	镝(CID43619)	鏑-er2, 镝-er2
+uni9567.er2	栏(CID21537)	鑭-er2, 镧-er2
+uni956D.er2	镭(CID43635)	鐳-er2, 镭-er2
+uni9576.er1	钍(CID43411)	鑲-er1, 鑲-er2, 镶-er1, 镶-er2
+uni957F.kmt	长(CID43661)	長-kmt
+uni95FB.er2	闻(CID43857)	聞-er2, 闻-er2
+uni9602.er2	阂(CID43864)	閡-er2, 阂-er2
+uni9611.er2	炼(CID25537)	斕-er2, 闌-er2, 斓-er2, 阑-er2
+uni9616.er2	阖(CID43884)	闔-er2, 阖-er2
+uni9677.er2	陥(CID43994)	陷-er2
+uni9685.er2	邘(CID41607)	隅-er2
+uni9699.er2	邜(CID41615)	隙-er2
+uni96BC.er2	隼(CID44155)	隼-er2
+uni96BE.er2	难(CID44158)	難-er2, 难-er2
+uni96C0.er2	雀(CID44162)	雀-er2
+uni96C1.er2	雁(CID44164)	雁-er2
+uni96C5.er2	雅(CID44173)	雅-er2
+uni96C7.er2	雇(CID44179)	雇-er2
+uni96C9.er2	雉(CID44184)	雉-er2
+uni96CC.er2	雌(CID44190)	雌-er2
+uni96CD.er2	雍(CID44192)	雍-er2
+uni96CF.er2	雏(CID44196)	雛-er2, 雏-er2
+uni96E8.er2	雨(CID44253)	雨-er2
+uni96EF.er2	雯(CID44270)	雯-er2
+uni96F6.er2	零(CID44288)	零-er2
+uni96F7.er2	雷(CID44291)	雷-er2
+uni96F9.er2	雹(CID44297)	雹-er2
+uni96FE.er2	雾(CID44310)	霧-er2, 雾-er2
+uni9700.er2	需(CID44315)	需-er2
+uni9704.er2	霄(CID44324)	霄-er2
+uni9707.er2	震(CID44333)	震-er2
+uni9708.er2	霈(CID44336)	霈-er2
+uni9709.er2	霉(CID44339)	霉-er2
+uni970D.er2	霍(CID44349)	霍-er2
+uni970E.er2	霎(CID44352)	霎-er2
+uni970F.er2	霏(CID44355)	霏-er2
+uni9713.er2	霓(CID44367)	霓-er2
+uni9716.er2	霖(CID44374)	霖-er2
+uni971C.er2	叕(CID11908)	霜-er2
+uni9732.er2	露(CID44451)	露-er2
+uni9752.er1	青(CID44529)	蜻-er2, 青-er1, 青-er2
+uni9756.er1	靖(CID44536)	靖-er1, 靖-er2
+uni9759.er1	静(CID44543)	靜-er1, 靜-er2, 静-er1, 静-er2
+uni975B.er1	靛(CID44548)	靛-er1, 靛-er2
+uni9774.er1	靴(CID44591)	靴-er1, 靴-er2
+uni978B.er1	鞋(CID44624)	鞋-er1, 鞋-er2
+uni97EC.er2	焔(CID25698)	韜-er2, 韬-er2
+uni98A0.er1	颠(CID45104)	巔-er2, 癲-er2, 顛-er1, 顛-er2, 颠-er1, 颠-er2, 巅-er2, 癫-er2
+uni98A7.er2	颧(CID45111)	顴-er2, 颧-er2
+uni98D8.er2	飘(CID45204)	飄-er2, 飘-er2
+uni9975.er2	饵(CID45569)	餌-er2, 饵-er2
+uni9985.er2	陥(CID43994)	餡-er2, 馅-er2
+uni998A.er2	馊(CID45590)	餿-er2, 馊-er2
+uni99C6.kmt	駆(CID45679)	驅-kmt
+uni9A55.sgp	驕(CID45937)	驕-kmt, 驕-sg1, 驕-sg2
+uni9A87.er2	骇(CID46013)	駭-er2, 骇-er2
+uni9A8C.sgp	验(CID46018)	驗-sg1, 驗-sg2
+uni9AA5.er1	骥(CID46043)	驥-er1, 驥-er2, 骥-er1, 骥-er2
+uni9AA8.gbk	骨(CID46047)	骨-cn, 骨-old, 骨-er1, 骨-er2
+uni9AAF	骯(CID46065)	骯-tw
+uni9AB7.gbk	骷(CID46086)	骷-cn, 骷-old, 骷-er1, 骷-er2
+uni9AB8.er2	骸(CID46089)	骸-er2
+uni9AB8.gbk	骸(CID46089)	骸-cn, 骸-old, 骸-er1
+uni9ABC.gbk	骼(CID46100)	骼-cn, 骼-old, 骼-er1, 骼-er2
+uni9AC2	髂(CID46117)	髂-tw
+uni9AC2.gbk	髂(CID46117)	髂-cn, 髂-old, 髂-er1, 髂-er2
+uni9AD8.er2	令(CID9829)	高-er2
+uni9B28.kmt	鬨(CID46345)	鬨-kmt
+uni9B3C.er2	鬼(CID46387)	鬼-er2
+uni9B41.er2	魁(CID46400)	魁-er2
+uni9B42.er2	魂(CID46403)	魂-er2
+uni9B44.er2	魄(CID46409)	魄-er2
+uni9B45.er2	魅(CID46412)	魅-er2
+uni9B49.er2	魉(CID46421)	魎-er2
+uni9B4D.er2	魍(CID46432)	魍-er2
+uni9B4F.er2	瓾(CID27585)	魏-er2
+uni9B51.er2	魑(CID46443)	魑-er2
+uni9B54.er2	廆(CID17334)	魔-er2
+uni9CD4.er2	鳔(CID47051)	鰾-er2, 鳔-er2
+uni9E64.er2	鹤(CID47694)	鶴-er2, 鹤-er2
+uni9E67.er2	鹧(CID47697)	鷓-er2, 鹧-er2
+uni9E70.er2	鹧(CID47697)	鷹-er2, 鹰-er2
+uni9E73.er2	鹳(CID47709)	鸛-er2, 鹳-er2
+uni9ED1.er2	黑(CID47926)	黑-er2
+uni9ED4.er2	黔(CID47931)	黔-er2
+uni9ED8.er2	默(CID47941)	默-er2
+uni9EDB.er2	黛(CID62228)	黛-er2
+uni9EDC.er2	黜(CID47948)	黜-er2
+uni9EDD.er2	黝(CID47951)	黝-er2
+uni9EEF.er2	黯(CID47988)	黯-er2
+uni9F20.er2	电(CID27698)	鼠-er2
+uni9F3E.er1	鼾(CID48178)	鼾-er1, 鼾-er2
+uniFF01.gbk	！(CID62288)	！-cn, ！-old, ！-er1, ！-er2
+uniFF0C.gbk	，(CID59955)	，-cn, ，-old, ，-er1, ，-er2
+uniFF1A.gbk	：(CID62291)	：-cn, ：-old, ：-er1, ：-er2
+uniFF1B.gbk	；(CID62292)	；-cn, ；-old, ；-er1, ；-er2
+uniFF1F.gbk	？(CID62293)	？-cn, ？-old, ？-er1, ？-er2
+u200D3	易(CID20741)	易-er1, 易-er2
+u200DC	眉(CID28568)	嵋-er1, 嵋-er2, 楣-er2, 湄-er2, 眉-er1, 眉-er2, 鶥-er2, 鹛-er2
+u201A3	灭(CID25388)	寡-er2
+u201A8	仔(CID9807)	僚-er1, 僚-er2
+u20705	効(CID11440)	剿-er2
+u20BB5	让(CID39377)	嚷-er1, 嚷-er2
+u20BE5	忰(CID17906)	啐-er1, 啐-er2
+u216A9	要(CID38178)	要-sg1, 要-sg2
+u219BC	灾(CID25418)	傢-er2, 家-er2
+u219F3	茜(CID34738)	賽-sg1, 賽-sg2, 賽-er1, 賽-er2
+u21C52	展(CID16037)	殿-er1, 殿-er2
+u21D49	岢(CID16193)	微-er2
+u22342	鼻(CID62231)	鼻-er1, 鼻-er2
+u22488	形(CID17658)	影-er1, 影-er2
+u225B3	扜(CID19058)	愉-er1, 愉-er2
+u2265D	㧥(CID4105)	嫌-er2
+u2275D	悬(CID18223)	懸-kmt
+u22A6A	䄦(CID6084)	撩-er2
+u22A73	汕(CID23546)	擅-er2
+u22A83	沏(CID23640)	撤-er1, 撤-er2
+u22B02	粧(CID31350)	撞-er2
+u23143	旪(CID20676)	暴-er2, 曝-er2
+u233B6	杰(CID21294)	傑-er2, 杰-er2
+u233B7	䎲(CID6781)	椅-er2
+u23C76	汴(CID23593)	浦-er2, 瀑-er2
+u23CAA	既(CID20662)	溉-er2
+u23CFE.er2	帣(CID17033)	滕-er2, 藤-er2
+u24182	灭(CID25388)	燃-er2
+u2418A	扑(CID19040)	爆-er1, 爆-er2
+u2462F	炊(CID25443)	款-er1, 款-er2
+u2474C	阮(CID43914)	猿-er2
+u2478F	猶(CID26748)	獅-sg1, 獅-sg2
+u24D25	疙(CID27852)	癔-er2
+u24D52	渂(CID24222)	瘟-er2
+u25128	扭(CID19083)	瞅-er1, 瞅-er2
+u252CA	橋(CID22566)	瞧-er2
+u25609	初(CID11189)	初-er2
+u2560E	衫(CID37552)	衫-er2
+u25611	衬(CID37553)	襯-er2, 衬-er2
+u2561E	衿(CID37597)	衿-er2, 襟-er2
+u2562F	袜(CID37660)	襪-er2, 袜-er2
+u25635	袒(CID37636)	袒-er2
+u2563D	袢(CID37673)	袢-er2, 襻-er2
+u2564A	祭(CID29624)	祭-er2
+u25FAB	妦(CID14429)	縫-er2, 缝-er2
+u25FD5.er2	站(CID30381)	綻-er2, 绽-er2
+u25FD7	织(CID32515)	織-sg1, 織-sg2
+u26678	朋(CID21143)	臃-er1, 臃-er2
+u26A0D.er2	䑠(CID6969)	艇-er2
+u26B01	芽(CID34554)	菜-er1, 菜-er2, 蔡-er1, 蔡-er2
+u26B38	㭉(CID4490)	蔬-er2, 薯-er2
+u26BB4	年(CID17169)	蔫-er2
+u26FFE	藜(CID36306)	藜-er2
+u2727E	奉(CID14214)	蠢-er2
+u27FEC	砘(CID29025)	蹲-er1, 蹲-er2
+u282A3.er2	轧(CID40918)	韓-er2, 韩-er2
+u28473	廷(CID17448)	庭-er2, 廷-er2, 蜓-er2, 霆-er2
+u28482	延(CID17445)	延-er2
+u2868D	砒(CID29017)	鄙-er2
+u28959	镜(CID43618)	镜-er1, 镜-er2
+u28C44	鈯(CID42361)	鋤-er2, 锄-er2
+u2948D	颈(CID45080)	頸-sg1, 頸-sg2
+u29F97	鳭(CID47077)	鵰-er2
+u2A3ED	㴝(CID4990)	黎-er2
+u2A83D	档(CID21672)	噹-kmt
+u2A8C8	沿(CID23707)	堰-er2
+u2A9F7	寽(CID15887)	醬-er1, 醬-er2, 酱-er1, 酱-er2
+u2AAC6	扫(CID19080)	浸-er2
+u2ABC8	放(CID20370)	敷-er2
+u2B006	袍(CID37626)	袍-er2
+u2B209	简(CID30715)	簡-er2
+u2B35A	扷(CID19100)	謠-er2, 谣-er2
+u2B4F1	硚(CID29115)	鍬-er2, 锹-er2
+u2B52D	開(CID43675)	開-kmt, 開-sg1, 開-sg2
+u2B560	電(CID44303)	霸-er2
+u2B77C.sgp	𫝼(CID60866)	撥-sg1, 撥-sg2
+u2B823	东(CID9541)	柬-er2
+u2B9C7	旨(CID20673)	能-er2
+u2BA4F	囗(CID13181)	器-er1, 器-er2
+u2BA51	面(CID44566)	面-er1, 面-er2, 麵-er1, 麵-er2
+u2BBDC	夼(CID14194)	幕-er1, 幕-er2
+u2BC06	䎲(CID6781)	姨-er2
+u2BCB7	実(CID15686)	富-er1, 富-er2
+u2BDAC	矣(CID28942)	侯-er2, 候-er2
+u2BDC0	蚝(CID36730)	帽-er1, 帽-er2
+u2BE6F	忎(CID17848)	感-er1, 感-er2
+u2BE75	坖(CID13385)	愿-er2, 願-er2
+u2C05F	㝵(CID3397)	得-er2
+u2C0AD	垧(CID13506)	橡-er1, 橡-er2, 墒-er2
+u2C329	犭(CID26534)	錢-kmt
+u2C4B3	被(CID37691)	被-er2
+u2C4BD	裙(CID37789)	裙-er2
+u2C4BE	裱(CID37838)	裱-er2
+u2C4E0	秔(CID29836)	嵇-er2, 稽-er2
+u2C728	岁(CID16121)	穗-er2, 繐-er2
+u2CBA6	関(CID43713)	關-kmt, 關-sg1, 關-sg2
+u2D026	妖(CID14385)	曜-er1, 曜-er2, 耀-er1, 耀-er2
+u2D64F	庁(CID17195)	廖-er1, 廖-er2
+u2D655	杽(CID21314)	摩-er2
+u2D70C	仿(CID9873)	慢-er1, 慢-er2
+u2DB5A	步(CID23138)	歲-sg1, 歲-sg2
+u2DCFF	灹(CID25409)	煤-er1, 煤-er2
+u2DD08	纭(CID32489)	熨-er2
+u2DDD4	笤(CID30535)	解-er2
+u2DEFE	定(CID15676)	旋-er2, 漩-er2
+u2E0B9	玟(CID26935)	穩-er1, 穩-er2, 稳-er1, 稳-er2
+u2E1D8	粴(CID31373)	糟-er2
+u2E5F8	訉(CID38430)	譏-sg1, 譏-sg2
+u2E5FB	讲(CID39386)	講-sg1, 講-sg2
+u2EA36	飞(CID45210)	飛-sg1, 飛-sg2
+u2EB91	黍(CID47918)	黍-er2

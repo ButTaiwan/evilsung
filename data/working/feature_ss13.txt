@@ -1,0 +1,7 @@
+featureNames {
+  name "1986 Simplified Chinese";
+  name 3 1 0x404 "1986 \7c21\5316\5b57\7e3d\8868";
+  name 1 "1986 Simplified Chinese";
+};
+lookup ss13main;
+lookup cn_style;
