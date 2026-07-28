@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="zh-hant-TW">
+<head>
+	<meta charset="utf-8"></head>
+	<style>
+		@font-face {  font-family: EvilSung; src: url(EvilSung-Regular.ttf); }
+		.kmt    { font-feature-settings: "ss01"; }
+		.draft  { font-feature-settings: "ss02"; }
+		.d1p    { font-feature-settings: "ss03"; }
+		.d2p    { font-feature-settings: "ss04"; }
+		.d3p    { font-feature-settings: "ss05"; }
+		.d4p    { font-feature-settings: "ss06"; }
+		.simp64 { font-feature-settings: "ss07"; }
+		.simpr  { font-feature-settings: "ss08"; }
+		.sg1    { font-feature-settings: "ss09"; }
+		.sg2    { font-feature-settings: "ss10"; }
+		.er1    { font-feature-settings: "ss11"; }
+		.er2    { font-feature-settings: "ss12"; }
+		.simp86 { font-feature-settings: "ss13"; }
+		.simp88 { font-feature-settings: "ss14"; }
+		.simp13 { font-feature-settings: "ss15"; }
+
+		body { margin: 0 0 0 320px; padding: 0; overflow: auto }
+
+		#side { position:fixed; top: 0; left: 0; width: 300px; height: 100vh; padding: 20px 0; background-color: #333; color: #fff; overflow: auto; }
+		#side h1 { font: 2em/1.2 EvilSung; text-align: center; margin: 0 10px 20px 0; color: #ddd; letter-spacing: 2px;}
+		#side h1 .zh { font-size: 1.5em; display: block;}
+		#side h1 a { color: inherit !important; text-decoration: none }
+
+		#side ul { margin: 0; padding-inline-start: 1em }
+		#side > ul > li { list-style: none; margin: 1em 0 0.5em 0; font-weight: bold; }
+		#side li { line-height: 1.6; font-family: Georgia, Times, serif }
+
+		ul ul > li { list-style: none; margin: 0; padding-left: 1.5em; background-repeat: no-repeat; background-position: left center; background-size: 1.2em; cursor: pointer; background-image: url("listitem.png") }
+		ul ul > li:hover { text-decoration: underline }
+		li.kmt { background-image: url("flag_kmt_china.png") }
+		li.cn { background-image: url("flag_china.png") }
+		li.sg { background-image: url("flag_singapore.png") }
+		li a { color: inherit !important; text-decoration: none }
+
+		.page { margin: 20px }
+
+		#tester { clear: both; font-size: 21pt; font-family: EvilSung; margin: 20px 0 ; }
+	
+		#listpage h2 { padding-top: 1.2em; }
+		table.show { border-collapse: collapse; margin: 10px 0; }
+		table.show tr.s { font-size: 28pt; font-family: EvilSung }
+		table.show th, table.show td { font-weight: normal; text-align: center; padding: 4px 6px; border: 1px solid #666; }
+		table.show th { background-color: #ddd ;}
+		table.show tr.s th { background-color: #eee ;}
+		table.show tr.s td.na { color: #ccc ;}
+
+	</style>
+</head>
+
+<script src="data.js" charset="utf-8"></script>
+<script>
+var inTestMode = true;
+var dataPageLoaded = false;
+
+function setSimpType(mode) {
+	if (! inTestMode) {
+		document.getElementById('listpage').style.display = 'none';
+		document.getElementById('testpage').style.display = 'block';
+		inTestMode = true;
+	}
+	document.getElementById('tester').className = mode;
+}
+
+function loadList() {
+	if (inTestMode) {
+		document.getElementById('testpage').style.display = 'none';
+		document.getElementById('listpage').style.display = 'block';
+		inTestMode = false;
+	}
+	if (!dataPageLoaded) generateList();
+}
+
+var tagname = {
+	trad: '　繁體字　', kmt: '民國簡體字', draft: '55簡化草案', sg1: '新加坡簡體', er2: '二简第二表',
+	simp64: '简化字1964', simpr: '简化字总表', simp86: '简化字1986', simp13: '通用规范字'
+};
+
+function generateDiffTable(section, caption, list, tags, note) {
+	var html = '';
+	html += '<h2 id="' + section + '">' + caption + ' &mdash; 共 ' + list.length + ' 字</h2>';
+	if (note) html += note;
+	html += '<table class="show">';
+	for (var i in list) {
+		if (i % 10 == 0) {
+			html += '<thead><tr>';
+			for (var j=0; j<tags.length; j++) html += '<th class="' + tags[j] + '">' + tagname[tags[j]] + '</th>';
+			html += '</tr></thead>';
+		}
+
+		var c = list[i];
+		html += '<tr class="s"><th class="' + tags[0] + '">' + c + '</th>';
+		for (var j=1; j<tags.length; j++) {
+			html += '<td class="' + tags[j] + '">' + c + '</td>';
+		}
+		html += '</tr>';
+	}
+	html += '</table>';
+	return html;
+}
+
+function generateTradTable(section, caption, lists, note) {
+	var tags = ['kmt', 'draft', 'sg1', 'er2'];
+	var html = '<h2 id="' + section + '">' + caption + '</h2>';
+	if (note) html += note;
+
+	for (var ti in tags) {
+		var tag = tags[ti];
+		var list = lists[tag];
+		if (list.length == 0) continue;
+
+		html += '<h3>' + tagname[tag] + ' vs. 中國簡化字總表 &mdash; 共 ' + list.length + ' 字</h3>';
+
+		html += '<table class="show">';
+		for (var i in list) {
+			if (i % 10 == 0) html += '<thead><tr><th>　簡體字　</th><th>' + tagname[tag] + '</th><th>简化字总表</th></tr></thead>';
+			html += '<tr class="s"><th class="simpr">' + list[i].s + '</th><td>' + list[i].x + '</td>';
+			html += (list[i].cn == '' ? '<td class="na">' + list[i].s + '</td>' : '<td>' + list[i].cn + '</td>') + '</tr>';
+		}
+		html += '</table>';
+	}
+	return html;
+}
+
+function generateList() {
+	var html = '';
+
+	html += generateDiffTable('varmax',
+		'各方案中簡體字長得最不一樣者 (' + (data.maxVarieties.max-1) + '種)',
+		data.maxVarieties[data.maxVarieties.max],
+		['trad', 'kmt', 'draft', 'simpr', 'sg1', 'er2']
+	);
+
+	html += generateDiffTable('varnext',
+		'各方案簡體字長得次多不一樣者 (' + (data.maxVarieties.max-2) + '種)',
+		data.maxVarieties[data.maxVarieties.max-1],
+		['trad', 'kmt', 'draft', 'simpr', 'sg1', 'er2']
+	);
+
+	html += generateDiffTable('diffkmt',
+		'民國第一批簡體字表與中國簡化字方式不同者',
+		data.diff_simp64_kmt,
+		['trad', 'kmt', 'simp64'],
+		'只列出民國第一批簡體字表中有簡化，但簡化方式1964簡化字總表不同者。未簡化者不計。'
+	);
+
+	html += generateDiffTable('diffsg',
+		'新加坡簡體字表與中國簡化字方式不同者',
+		data.diff_simp64_sg,
+		['trad', 'sg1', 'simp64'],
+		'只列出1969新加坡簡體字表中有簡化，但簡化方式1964簡化字總表不同者。未簡化者不計。'
+	);
+
+	html += generateDiffTable('diffdraft',
+		'漢字簡化草案與正式方案(1964)簡化方式不同者',
+		data.diff_simp64_draft,
+		['trad', 'draft', 'simp64'],
+		'只列出兩方案均有簡化而簡化方式不同者，不含漢字簡化草案未簡化者，如偏旁類推簡化。'
+	);
+	
+	html += generateDiffTable('diff86',
+		'簡化字總表(1964)與簡化字總表(1986)重新發佈時的差異',
+		data.diff_simp64_simp86,
+		['trad', 'simp64', 'simp86']
+	);
+
+	html += generateDiffTable('diff13',
+		'簡化字總表(1986)與現行通用规范汉字表的差異（邪宋有收錄者）',
+		data.diff_simp86_simp13,
+		['trad', 'simp86', 'simp13']
+	);
+
+	//['kmt', 'draft', 'simpr', 'sg1', 'er2']
+	html += generateTradTable('simpdiff',
+		'同一個簡體字在不同方案對應至不同繁體字者',
+		data.simpDiffs
+	);
+
+	html += generateTradTable('simpmore',
+		'同一個簡體字在不同方案對應至更多繁體字者',
+		data.simpMore,
+		'灰字表示在〈简化字总表〉中原未做為簡化字使用，只做此字本身原意使用者。'
+	);
+	document.getElementById('listpage').innerHTML = html;
+
+	dataPageLoaded = true;
+}
+
+</script>
+
+<body>
+
+	<div id="side">
+		<h1><a href="https://github.com/ButTaiwan/evilsung"><span class="zh">邪宋</span>EvilSung</a></h1>
+
+		<ul>
+			<li>文章切換模擬</li>
+			<ul id="simps">
+				<li onclick="setSimpType('')">切回繁體</li>
+				<li onclick="setSimpType('kmt')" class="kmt">1935 第一批简体字表</li>
+				<li onclick="setSimpType('draft')" class="cn">1955 漢字簡化方案草案</li>
+				<li onclick="setSimpType('d1p')" class="cn">1956 漢字簡化方案第一批</li>
+				<li onclick="setSimpType('d2p')" class="cn">1956 漢字簡化方案第二批</li>
+				<li onclick="setSimpType('d3p')" class="cn">1958 漢字簡化方案第三批</li>
+				<li onclick="setSimpType('d4p')" class="cn">1959 漢字簡化方案第四批</li>
+				<li onclick="setSimpType('simp64')" class="cn">1986 简化字总表</li>
+				<li onclick="setSimpType('simpr')" class="cn">1965 印刷通用汉字字形表</li>
+				<li onclick="setSimpType('sg1')" class="sg">1969 簡體字表</li>
+				<li onclick="setSimpType('sg2')" class="sg">1974 简体字总表</li>
+				<li onclick="setSimpType('er1')" class="cn">1977 第二次简化草案第一表</li>
+				<li onclick="setSimpType('er2')" class="cn">1977 第二次简化草案第二表</li>
+				<li onclick="setSimpType('simp86')" class="cn">1986 简化字总表</li>
+				<li onclick="setSimpType('simp88')" class="cn">1988 现代汉语通用字表</li>
+				<li onclick="setSimpType('simp13')" class="cn">2013 通用规范汉字表</li>
+			</ul>
+			<li>各種列表</li>
+			<ul id="lists">
+				<li onclick="loadList()"><a href="#varmax">各方案最不同的字</a></li>
+				<li onclick="loadList()"><a href="#varnext">各方案次多不同的字</a></li>
+				<li onclick="loadList()"><a href="#diffkmt">民國簡體與中國簡化字差異</a></li>
+				<li onclick="loadList()"><a href="#diffsg">新加坡簡體與中國簡化字差異</a></li>
+				<li onclick="loadList()"><a href="#diffdraft">漢字簡化方案與正式版差異</a></li>
+				<li onclick="loadList()"><a href="#diff86">简化字总表1986變更處</a></li>
+				<li onclick="loadList()"><a href="#diff13">通用规范汉字表2013變更處</a></li>
+				<li onclick="loadList()"><a href="#simpdiff">同一簡體字對應至不同繁體字</a></li>
+				<li onclick="loadList()"><a href="#simpmore">同一簡體字對應至更多繁體字</a></li>
+			</ul>
+	</div>
+
+	<div id="testpage" class="page">
+		您可在下面輸入任意文字，並點選左方簡體方案切換顯示：
+
+		<div id="tester" contenteditable="true">
+			輕輕的我走了，正如我輕輕的來；我輕輕的招手，作別西天的雲彩。<br>
+			那河畔的金柳，是夕陽中的新娘；波光裡的艷影，在我的心頭蕩漾。<br>
+			軟泥上的青荇，油油的在水底招搖；在康河的柔波裏，我甘心做一條水草！<br>
+			那榆蔭下的一潭，不是清泉，是天上虹。揉碎在浮藻間，沉澱著彩虹似的夢。<br>
+			尋夢？撐一支長篙，向青草更青處漫溯，滿載一船星輝，在星輝斑斕裡放歌。<br>
+			但我不能放歌，悄悄是別離的笙簫；夏蟲也為我沉默，沉默是今晚的康橋。<br>
+			悄悄的我走了，正如我悄悄的來；我揮一揮衣袖，不帶走一片雲彩。<br><br>
+
+			我與父親不相見已二年餘了，我最不能忘記的是他的背影。<br>
+			那年冬天，祖母死了，父親的差使也交卸了，正是禍不單行的日子！喪事完畢，父親要到南京謀事，我也要回北京念書，我們便同行。<br>
+			到南京時，有朋友約去遊逛，勾留了一日；第二日上午，便須渡江到浦口，下午上車北去。父親因為事忙，本已說定不送我，叫旅館裡一個熟識的茶房陪我同去。他再三囑咐茶房，甚是仔細。但他終於不放心，怕茶房不妥帖；頗躊躇了一會。其實，我那年已二十歲，北京已來往過兩三次，是沒有什麼要緊的了。他躊躇了一會，終於決定還是自己送我去。我兩三回勸他不必去，他只說：「不要緊，他們去不好！」<br>
+			我們過了江，進了車站，我買票，他忙著照看行李。行李太多了，得向腳夫行些小費才可過去，他便又忙著和他們講價錢。我那時真是聰明過分，總覺他說話不大漂亮，非自己插嘴不可。但他終於講定了價錢，就送我上車。他給我揀定了靠車門的一張椅子，我將他給我做的紫毛大衣鋪好坐位。他囑我路上小心，夜裡要警醒些，不要受涼；又囑託茶房好好照應我。我心裡暗笑他的迂，他們只認得錢，託他們直是白託；而且我這樣大年紀的人，難道還不能料理自己麼？唉！我現在想想，那時真是太聰明了！<br>
+			我說道：「爸爸，您走吧！」他望車外看了一看，說：「我買幾個橘子去，你就在此地不要走動。」我看那邊月臺的柵欄外有幾個賣東西的等著顧客。走到那邊月臺，須穿過鐵道，須跳下去又爬上去。父親是一個胖子，走過去自然要費事些。我本來要去的，他不肯，只好讓他去。我看見他戴著黑布小帽，穿著黑布大馬褂，深青布棉袍，蹣跚地走到鐵道邊，慢慢探身下去，尚不大難。可是他穿過鐵道，要爬上那邊月臺，就不容易了。他用兩手攀著上面，兩腳再向上縮；他肥胖的身子向左微傾，顯出努力的樣子。這時我看見他的背影，我的眼淚很快地流下來了。我趕緊拭乾了淚，怕他看見，也怕別人看見。我再向外看時，他已抱了朱紅的橘子望回走了。過鐵道時，他先將橘子散放在地上，自己慢慢爬下，再抱起橘子走。到這邊時，我趕緊去攙他。他和我走到車上，將橘子一股腦兒放在我的皮大衣上，於是撲撲衣上的泥土，心裡很輕鬆似的。過一會說：「我走了，到那邊來信！」我望著他走出去。他走了幾步，回過頭看見我，說：「進去吧，裡邊沒人！」等他的背影混入來來往往的人叢裡，再找不著了。我便進來坐下，我的眼淚又來了。<br>
+			近幾年來，父親和我都是東奔西走，家中光景，一日不如一日。我北來後，他寫了一封信給我，信中說道：「我身體平安，惟膀子疼痛得厲害，舉箸提筆，諸多不便，大約大去之期不遠矣。」我讀到此處，在晶瑩的淚光中，又看見那肥胖的青布棉袍、黑布馬褂的背影。唉！我不知何時再能與他相見！<br>
+		</div>
+	</div>
+
+	<div id="listpage" class="page"></div>
+	</body>
+
+</html>
